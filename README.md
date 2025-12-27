@@ -111,7 +111,7 @@ Live Demo (Coming Soon) | Powered by MERN + AWS
 ### 🧑‍💻 1. Clone the repository
 
 ```bash
-git clone https://github.com/PrinceInScripts/Share-Pod-File-Sharing-Application
+
 
 cd client
 npm install
@@ -124,8 +124,7 @@ npm start
 
 PORT=6600
 MONGODB_URL=your_mongo_url
-SERVER_URL=http://localhost:6600/api/files
-CLIENT_URL=http://localhost:5173
+
 NODE_ENV=development
 JWT_SECRET=your_jwt_secret
 
